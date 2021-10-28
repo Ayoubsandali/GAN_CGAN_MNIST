@@ -1,2 +1,2 @@
 # GAN_CGAN_MNIST
- Genrating MNIST Digit Image using GAN and CGAN
+ Generating MNIST Digit Images using GAN and CGAN
